@@ -1,0 +1,41 @@
+_repo: The-Great-Salt-Lake-Trail_5718
+creator:
+  authors:
+  - agent_name: Buffalo Bill
+    aliases:
+    - Cody, Buffalo Bill
+    - Cody, William Frederick
+    - Cody, William F. (William Frederick)
+    - Bill, Buffalo
+    birthdate: 1846
+    deathdate: 1917
+    gutenberg_agent_id: '4524'
+    url: http://www.gutenberg.org/2009/agents/4524
+    wikipedia: http://en.wikipedia.org/wiki/Buffalo_Bill
+  - agent_name: Inman, Henry
+    birthdate: 1837
+    deathdate: 1899
+    gutenberg_agent_id: '1850'
+    url: http://www.gutenberg.org/2009/agents/1850
+description: A history of this historic avenue of Westward emigration, from the first
+  explorations through the Indian Wars. Over this route the Mormons made their lonely
+  migration to the Great Salt Lake Valley. Also there were expeditions by Fremont,
+  Stansbury, Lander. A final chapter describes the building of the transcontinental
+  railroad.
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5718'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'F590.3'
+- !lcsh 'West (U.S.) -- Description and travel'
+- !lcsh 'Frontier and pioneer life -- West (U.S.)'
+- !lcsh 'Trails -- West (U.S.)'
+- !lcsh 'Roads -- West (U.S.)'
+- !lcsh 'Indians of North America -- West (U.S.)'
+title: The Great Salt Lake Trail
+url: http://www.gutenberg.org/ebooks/5718
