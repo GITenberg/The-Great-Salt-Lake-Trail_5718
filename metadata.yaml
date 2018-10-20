@@ -1,5 +1,5 @@
 _repo: The-Great-Salt-Lake-Trail_5718
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -43,5 +43,6 @@ subjects:
 - !lcsh 'Trails -- West (U.S.)'
 - !lcsh 'Roads -- West (U.S.)'
 - !lcsh 'Indians of North America -- West (U.S.)'
+- GITenberg
 title: The Great Salt Lake Trail
 url: http://www.gutenberg.org/ebooks/5718
